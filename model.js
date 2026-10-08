@@ -74,9 +74,9 @@ const DL = (function () {
       if (rnd() >= ret) s.pilotsLost++;
     }
     for (const [name, st] of state) (st === "sunk" ? s.sunk : s.damaged).push(name);
-    L(`${s.intercepted} combinations are caught by fighters on the way in, ${s.lostNav} do not find the anchorage, ${s.flak} fall to the anti-aircraft fire; ${s.released} are released.`);
+    L(`Caught by fighters on the way in: ${s.intercepted}. Did not find the anchorage: ${s.lostNav}. Shot down by the anti-aircraft fire: ${s.flak}. Released: ${s.released}.`);
     L(s.hits.length ? `Hits: ${s.hits.length}. ${s.sunk.length ? "Sunk: " + s.sunk.join(", ") + ". " : ""}${s.damaged.length ? "Damaged: " + s.damaged.join(", ") + "." : ""}` : "No heavy ship is hit.");
-    L(`${s.pilotsLost} fighter pilot${s.pilotsLost === 1 ? "" : "s"} do not come back.`);
+    L(s.pilotsLost === 0 ? "All the fighter pilots come back." : `${s.pilotsLost} fighter pilot${s.pilotsLost === 1 ? " does" : "s do"} not come back.`);
     return s;
   }
 

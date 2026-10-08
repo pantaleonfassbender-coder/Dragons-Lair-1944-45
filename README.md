@@ -2,6 +2,8 @@
 
 **A hypothetical campaign study from the Luftwaffe's own file.** On 16 April 1944 the Luftwaffe Operations Staff proposed to send eight Mistel, pilotless Ju 88 bombers steered by a fighter on their backs, against the British Home Fleet in Scapa Flow. In February 1945 the plan came back as Operation *Drachenhöhle* (Dragon's Lair) and was dropped within four days. The study follows the staff's own arithmetic, sets it beside the Home Fleet's war diary, and follows what the file did not count: the men aboard, the Churchill Barriers and the Italian prisoners of war who built them.
 
+**Live:** https://dragons-lair-1944-45.netlify.app/
+
 Read it as a dossier, or take the staff's seat and decide where the file decides; a model then runs the attack with the file's figures and named assumptions. A sequel to [Iron Hammer, 1945](https://iron-hammer-1945.netlify.app/).
 
 ## Sources
