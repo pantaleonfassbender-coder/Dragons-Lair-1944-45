@@ -1,5 +1,7 @@
 # itch.io page for Dragon's Lair, 1944–45 — field by field
 
+**Live since 8 October 2026:** https://leofassb.itch.io/dragons-lair-194445
+
 Files in this folder:
 - `dragons-lair-1944-45-itch.zip`: the upload. Build it with `python itch/build-itch.py`; it is gitignored.
 - `cover-630x500.png`: the cover. Build it with `python itch/make-cover.py`.
