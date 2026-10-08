@@ -1,0 +1,494 @@
+{
+ "chapters": [
+  {
+   "id": "weapon",
+   "n": 1,
+   "date": "1943 – 16 April 1944",
+   "part": "April 1944: the plan",
+   "title": "Beethoven",
+   "lede": "A pilotless Ju 88 packed with explosives, steered to its target by a fighter on its back. In April 1944 the Luftwaffe's operations staff asked what to do with it.",
+   "body": [
+    "The \"Mistel\" (mistletoe) was a composite aircraft: a Junkers Ju 88 bomber without a crew, its crew cockpit taken off and a hollow-charge warhead fitted in its place, carried into the air by its own two engines and guided by a Messerschmitt Bf 109 fighter mounted on struts above it. Near the target the fighter pilot aimed the whole combination, released the bomber and turned for home. The project's cover name was \"Beethoven\".",
+    "On 16 April 1944 the Luftwaffe Operations Staff sent a short study \"on the possible uses of the Mistel\" up the chain of command, with a technical annex, a note on the enemy's heavy ships and two maps. The file survives in the war diary of the operations staff, captured by the Allies and filmed by the US National Archives (microfilm T-321, roll 10). It is the planning document behind this study.",
+    "The technical annex sets out what the staff had: two prototypes for training, thirteen more combinations due by 15 June, two hollow-charge warheads for each aircraft, a crane with a hook 7.50 m high to fit them, and 45 men, 21 of them soldiers and the rest from industry. The trials were in the hands of 2./KG 101 under Hauptmann Rudat; the attack itself was to go to IX Air Corps, \"since General Peltz personally suggested the Mistel method\".",
+    "Everything depended on range. Without extra fuel the combination reached 400–500 km, which the staff thought \"of little value\". With a 300-litre tank on the fighter it reached 750–800 km; that was demanded and could be done \"without technical difficulty\". A depth of 1,400 km would have needed \"larger trials\", and the staff proposed to do without it."
+   ],
+   "quotes": [
+    {
+     "de": "Eindringtiefe 750 - 800 km bei Verwendung eines 300 l Zusatzbehälters wird vom Führungsstab gefordert und ist ohne technische Schwierigkeiten erreichbar.",
+     "en": "A depth of 750–800 km, using a 300-litre auxiliary tank, is demanded by the operations staff and can be reached without technical difficulty.",
+     "cite": {
+      "href": "#/file/a1",
+      "label": "Covering memo, 16 April 1944, p. 1"
+     }
+    }
+   ],
+   "facsimiles": [
+    {
+     "src": "assets/file/a1.jpg",
+     "href": "#/file/a1",
+     "caption": "The covering memo of 16 April 1944: \"Chef-Sache! Nur durch Offizier!\""
+    }
+   ],
+   "data": [
+    "mistel"
+   ],
+   "decision": {
+    "key": "base",
+    "prompt": "Where should the combinations take off?",
+    "file": "grove",
+    "options": [
+     {
+      "value": "grove",
+      "label": "Grove, in Jutland",
+      "detail": "775 km to Scapa Flow with the 300-litre tank. The base the file names."
+     },
+     {
+      "value": "sola",
+      "label": "Stavanger-Sola, in Norway",
+      "detail": "510 km: a shorter flight and a safer way home, but the combinations must first be moved to Norway, where they can be seen."
+     }
+    ],
+    "fileNote": "The study reckons from Grove: \"775 km vom Flugplatz Grove, bei Einbau eines 300 l Kraftstoffzusatzbehälters\". Stavanger appears only as the reason why no fighter escort is possible."
+   },
+   "sources": [
+    "t321file"
+   ]
+  },
+  {
+   "id": "target",
+   "n": 2,
+   "date": "4–16 April 1944",
+   "part": "April 1944: the plan",
+   "title": "Remains Scapa Flow",
+   "lede": "Gibraltar, Scapa Flow or the Soviet fleet at Leningrad. A note at the foot of the study settles it in one line.",
+   "body": [
+    "The staff looked for heavy warships within reach. Its naval liaison officer listed where they could be found: the Arctic near Bear Island, covering the convoys to Russia; Scapa Flow, \"main base of the English Home Fleet\"; the Clyde with its repair yards; the Mediterranean. The study named three targets as the most promising: Gibraltar, Scapa Flow and the Soviet fleet at Leningrad.",
+    "Gibraltar needed the 1,400 km that the technical staff did not want to promise, and a flight over Spain, which, the study notes, the Führer had so far refused. At Leningrad no surprise was possible. A note added below the study by Christian, of the operations staff, draws the conclusion: \"bleibt Scapa Flow\", remains Scapa Flow. A greater \"material and moral effect\" was expected there.",
+    "Then the arithmetic. The covering memo expects to find in Scapa \"no more than at most 2 battleships and 1–2 carriers\". Since one hit was reckoned to destroy a battleship, two Mistel against each heavy ship would do: eight in all. Of the fifteen expected, seven could be kept back for a second attack, on Scapa again or on Leningrad. The memo proposes exactly that: first 50 per cent, then decide.",
+    "The estimate of what lay at anchor rested on no reconnaissance the file mentions. Chapter 7 sets it beside the Home Fleet's own war diary."
+   ],
+   "quotes": [
+    {
+     "de": "In Scapa, das in erster Linie vorgeschlagen wird, werden nicht mehr als höchstens 2 Schlachtschiffe und 1 - 2 Träger anzutreffen sein.",
+     "en": "In Scapa, which is proposed in the first place, no more than at most 2 battleships and 1–2 carriers will be found.",
+     "cite": {
+      "href": "#/file/a3",
+      "label": "Covering memo, p. 3"
+     }
+    },
+    {
+     "de": "Da Gibraltar nur durch Überfliegung spanischen Gebiets - was bisher immer vom Führer abgelehnt wurde - erreicht werden kann und die Voraussetzung einer Überraschung bei Angriff auf Leningrad nicht gegeben ist, bleibt Scapa Flow.",
+     "en": "Since Gibraltar can be reached only by flying over Spanish territory, which the Führer has always refused so far, and the condition of surprise is not given in an attack on Leningrad, Scapa Flow remains.",
+     "cite": {
+      "href": "#/file/b3",
+      "label": "Study, p. 3, note signed Christian"
+     }
+    }
+   ],
+   "facsimiles": [
+    {
+     "src": "assets/file/b3-remains.jpg",
+     "href": "#/file/b3",
+     "caption": "\"… bleibt Scapa Flow. Vorschlag: Vorbereitungen auf Scapa Angriff festlegen. gez. Christian\""
+    },
+    {
+     "src": "assets/file/a3-most.jpg",
+     "href": "#/file/a3",
+     "caption": "\"höchstens 2 Schlachtschiffe und 1 - 2 Träger\": the memo's estimate, and its arithmetic of eight."
+    }
+   ],
+   "plates": [
+    "rangemap"
+   ],
+   "decision": {
+    "key": "count",
+    "prompt": "How many combinations go against Scapa Flow?",
+    "file": "8",
+    "options": [
+     {
+      "value": "8",
+      "label": "Eight, keep seven back",
+      "detail": "Two against each heavy ship the memo expects; decide on the rest after the first attack."
+     },
+     {
+      "value": "15",
+      "label": "All fifteen at once",
+      "detail": "The memo's option (a): everything against Scapa, nothing held back."
+     }
+    ],
+    "fileNote": "The memo proposes \"zunächst 50% (8) der Mistel gegen Scapa\", and to decide on the rest only after the first attack."
+   },
+   "sources": [
+    "t321file"
+   ]
+  },
+  {
+   "id": "approach",
+   "n": 3,
+   "date": "16 April 1944",
+   "part": "April 1944: the plan",
+   "title": "Low and late",
+   "lede": "The same file gives two answers to the question how the combinations should come in, and they contradict each other.",
+   "body": [
+    "The study is plain about the defence. \"In the target area the strongest defence is to be expected.\" It had no exact data, because the Luftwaffe's radio intercept service reached only as far north as The Wash; its intelligence branch reckoned with 160 to 200 fighters between the Firth of Forth and the north coast of Scotland, and with a belt of radar stations covering the sea \"without gaps\". Fighter escort was impossible: Stavanger to Scapa Flow was 510 km.",
+    "So the Mistel had to be seen by radar so late that the fighters could no longer reach it. The study concludes that the only possible approach is very low flight, pulling up as late as possible and gliding onto the target. Combined attacks with other bombers are ruled out, and so is a high-level approach. And: \"Flight in bad weather or at night is not possible.\"",
+    "The covering memo, written the same day by the same staff, sees it differently: surprise is \"most likely\" in a night flight in the second half of a moonlit night, arriving at dawn; at any other time a low approach with a late pull-up \"already gives the enemy chances to defend\". The file does not resolve the contradiction.",
+    "The technical annex gives the last two kilometres: release at 700 m, 2 km from the ship, the Ju 88 gliding at 20 degrees and 550–600 km/h, a scatter of 18 by 18 metres. A battleship should be attacked obliquely from astern."
+   ],
+   "quotes": [
+    {
+     "de": "Schlechtwetter- oder Nachtflug ist nicht möglich.",
+     "en": "Flight in bad weather or at night is not possible.",
+     "cite": {
+      "href": "#/file/b2",
+      "label": "Study, p. 2"
+     }
+    },
+    {
+     "de": "Überraschung am ehesten bei Nachtflug in zweiter Nachthälfte einer Mondnacht mit Eintreffen am Ziel bei Morgengrauen",
+     "en": "Surprise is most likely in a night flight in the second half of a moonlit night, arriving at the target at dawn",
+     "cite": {
+      "href": "#/file/a2",
+      "label": "Covering memo, p. 2"
+     }
+    }
+   ],
+   "facsimiles": [
+    {
+     "src": "assets/file/c2-attack.jpg",
+     "href": "#/file/c2",
+     "caption": "The method of attack: release at 700 m, 2 km from the target; scatter 18 × 18 m."
+    },
+    {
+     "src": "assets/file/b2-scapa.jpg",
+     "href": "#/file/b2",
+     "caption": "\"Im Zielgebiet ist stärkste Abwehr zu erwarten.\""
+    }
+   ],
+   "data": [
+    "probabilities"
+   ],
+   "decision": {
+    "key": "method",
+    "prompt": "How should the combinations come in?",
+    "file": "day",
+    "options": [
+     {
+      "value": "day",
+      "label": "By day, at very low level",
+      "detail": "The study's method: under the radar, pull up late, glide in. Good navigation, more exposure to fighters."
+     },
+     {
+      "value": "dawn",
+      "label": "By moonlight, arriving at dawn",
+      "detail": "The covering memo's method: harder to find the anchorage, easier to surprise the defence."
+     }
+    ],
+    "fileNote": "The study: the only possible approach is very low flight with a late pull-up; night flight \"is not possible\". The covering memo prefers the moonlit night. The study's answer is marked as the file's."
+   },
+   "sources": [
+    "t321file"
+   ]
+  },
+  {
+   "id": "eye",
+   "n": 4,
+   "date": "1939 – April 1944",
+   "part": "April 1944: the plan",
+   "title": "Photographs with the ships marked",
+   "lede": "A pilot skimming the sea cannot look for his target. He has to know where it lies before he takes off.",
+   "body": [
+    "For the way out the annex counts on the instruments: three-axis course control in the Ju 88, a homing receiver in the fighter, a radio buoy called \"Schwan\" (swan) that could be picked up 80 to 100 km away at 200 m, and the long-wave \"Sonne\" beacon at Stavanger. If all of that failed, a fast pathfinder, a Ju 188, was to lead the way.",
+    "At the anchorage, instruments were no help. The study is emphatic: the attack must be preceded by reconnaissance, and the crews must be able to steer straight for their targets from aerial photographs \"on which the position of the ships is marked\". They could not pick out their targets on arrival.",
+    "What the Luftwaffe had on file were target dossiers made in 1939–41: maps, aerial photographs and record cards of the batteries, tanks and airfields round the Flow. The dossier on Lamb Holm, a small island on the eastern edge of the Flow, dated January 1941, records coastal batteries \"partly still under construction\", photographed on 8 October 1940. A year later the island became the site of a prison camp (chapter 9).",
+    "A reconnaissance flight would bring fresh photographs, if it came back, and could warn the defence. The file demands it all the same."
+   ],
+   "quotes": [
+    {
+     "de": "Die Besatzungen müssen anhand von Luftbildern mit eingezeichneter Lage der Schiffe unmittelbar ihr Ziel ansteuern können.",
+     "en": "The crews must be able to steer straight for their targets from aerial photographs on which the position of the ships is marked.",
+     "cite": {
+      "href": "#/file/b3",
+      "label": "Study, p. 3"
+     }
+    }
+   ],
+   "plates": [
+    "lambholm-photo",
+    "lyness"
+   ],
+   "decision": {
+    "key": "recon",
+    "prompt": "Fly a reconnaissance first?",
+    "file": "recon",
+    "options": [
+     {
+      "value": "recon",
+      "label": "Yes, photograph the anchorage first",
+      "detail": "As the file demands. Fresh positions for the crews, if the aircraft comes back."
+     },
+     {
+      "value": "old",
+      "label": "No, use the old dossiers",
+      "detail": "No warning to the defence, but the crews fly with photographs of 1939–41."
+     }
+    ],
+    "fileNote": "\"Dem Einsatz muss eine Aufklärung vorausgehen\": the operation must be preceded by reconnaissance."
+   },
+   "sources": [
+    "t321file",
+    "dossiers"
+   ]
+  },
+  {
+   "id": "when",
+   "n": 5,
+   "date": "April – June 1944",
+   "part": "April 1944: the plan",
+   "title": "Not a surprise weapon",
+   "lede": "The Allied landing in France was expected any week. The study argued against holding the Mistel back for it.",
+   "body": [
+    "The study proposes \"immediate use\" once the pilots were trained. If the Allies landed in force, their heavy ships would stay out of range of the German glide bombs and would not intervene directly; holding the Mistel back as a \"surprise weapon\" for that day was not expedient. And the longer the staff waited, the more time the enemy had to prepare, \"especially since complete secrecy is not assured\".",
+    "The annex gives the timetable: training from 18 April on two prototypes, the other thirteen combinations ready about 15 June. Whether the file was approved, and by whom, is not in it.",
+    "The choice of date mattered more than the file could know. In the Home Fleet's war diary, Scapa Flow in the second half of May 1944 held between four and seven battleships and one to three fleet carriers on any one day; by the second half of June, after the carriers Victorious and Indomitable had sailed for the Far East and other ships had gone south for the landing, it held two battleships and one carrier: what the memo had expected.",
+    "Later accounts, all secondary, say that the Mistel were first used in June 1944 against shipping off the Normandy coast. No document found for this study confirms it, and the study does not follow that branch."
+   ],
+   "quotes": [
+    {
+     "de": "Je länger mit dem Einsatz gezögert wird, desto mehr Zeit bleibt dem Feind Abwehrmassnahmen zu treffen, insbesondere da eine unbedingte Geheimhaltung nicht gewährleistet ist.",
+     "en": "The longer the operation is delayed, the more time the enemy has to take countermeasures, especially since complete secrecy is not assured.",
+     "cite": {
+      "href": "#/file/b1",
+      "label": "Study, p. 1"
+     }
+    }
+   ],
+   "data": [
+    "fleet"
+   ],
+   "decision": {
+    "key": "when",
+    "prompt": "When should the attack be made?",
+    "file": "june",
+    "options": [
+     {
+      "value": "may",
+      "label": "At once, in late May, with what is ready",
+      "detail": "Perhaps nine combinations; the anchorage full of heavy ships."
+     },
+     {
+      "value": "june",
+      "label": "After 15 June, with all fifteen",
+      "detail": "The file's schedule; by then much of the fleet has sailed."
+     },
+     {
+      "value": "hold",
+      "label": "Hold them back for the landing",
+      "detail": "Against the study's advice. Scapa Flow is not attacked in 1944."
+     }
+    ],
+    "fileNote": "The study proposes immediate use after training; the annex expects the last combinations about 15 June."
+   },
+   "sources": [
+    "t321file",
+    "nhn",
+    "roskill3"
+   ]
+  },
+  {
+   "id": "drachen",
+   "n": 6,
+   "date": "November 1944 – 16 February 1945",
+   "part": "February 1945: the decision",
+   "title": "Dragon's Lair",
+   "lede": "Ten months later the plan came back, under a new name, in a Luftwaffe that no longer had the fuel to fly it.",
+   "body": [
+    "In November 1944 Major Horst Hans Beeger joined the staff of KG 200, the Luftwaffe's special-operations wing under Oberstleutnant Werner Baumbach. Interrogated by the British in the winter of 1945–46, he said that in January 1945 he prepared \"an operation planned against SCAPA FLOW\" at Schloss Boitzenburg near Prenzlau, and in February went to Tirstrup in Jutland \"to direct the operation\". The interrogator added that the prisoner \"has not impressed IO\", but might be speaking the truth.",
+    "The war diary of the operations staff gives the decisions. On 2 February 1945 Göring agreed that beyond the 130 Mistel built or under construction no further hundred were to be built. On 12 February, after a report by the commodore of KG 200, he put off the final decision on \"Unternehmen Drachenhöhle\", Operation Dragon's Lair, for three days; Operation Eisenhammer, the Mistel attack on the power stations round Moscow, was to go ahead \"under all circumstances\". On 13 February Dragon's Lair was \"postponed for the time being\". On 16 February Göring decided that it was \"not to be carried out for the time being\"; the fuel set aside for it, stored in Norway, remained blocked.",
+    "The diary does not name the target of Dragon's Lair. That it was Scapa Flow follows from Beeger's statement and from the later literature. Nor does it say why. On the same days it records a fuel crisis: about 400 tons of aviation fuel were expected from industry for the whole of February. Beeger said bad weather made them abandon the project. A later account, based on a German pilot's memory and a post-war letter, adds an RAF attack on Tirstrup on 14 February and the suspicion that Baumbach warned the British; no document found for this study confirms either.",
+    "Tirstrup lies about 865 km from Scapa Flow: beyond the 750–800 km of the Mistel of 1944, within the 1,500 km of the combinations being built in 1945, as the Eisenhammer file of 7 February 1945 puts it."
+   ],
+   "quotes": [
+    {
+     "de": "Nach Vortrag Kommodore KG 200 hat Reichsmarschall den endgültigen Entscheid über Durchführung des Unternehmens \"Drachenhöhle\" noch auf 3 Tage verschoben.",
+     "en": "After a report by the commodore of KG 200, the Reichsmarschall has put off the final decision on carrying out Operation \"Drachenhöhle\" for another three days.",
+     "cite": {
+      "href": "#/file/k2",
+      "label": "War diary, 12 February 1945"
+     }
+    },
+    {
+     "de": "Reichsmarschall hat nunmehr entschieden, daß das Unternehmen \"Drachenhöhle\" vorerst nicht mehr durchzuführen ist.",
+     "en": "The Reichsmarschall has now decided that Operation \"Drachenhöhle\" is not to be carried out for the time being.",
+     "cite": {
+      "href": "#/file/k5",
+      "label": "War diary, 16 February 1945"
+     }
+    }
+   ],
+   "facsimiles": [
+    {
+     "src": "assets/file/k2-drachen.jpg",
+     "href": "#/file/k2",
+     "caption": "12 February 1945: the decision on \"Drachenhöhle\" put off for three days."
+    },
+    {
+     "src": "assets/file/v2-beeger.jpg",
+     "href": "#/file/v2",
+     "caption": "Beeger's interrogation: \"Bad weather made them abandon this project.\""
+    }
+   ],
+   "data": [
+    "map"
+   ],
+   "decision": {
+    "key": "drachen",
+    "prompt": "February 1945: attack Scapa Flow?",
+    "file": "postpone",
+    "options": [
+     {
+      "value": "attack",
+      "label": "Fly Dragon's Lair",
+      "detail": "From Tirstrup, on the first day the weather allows, with the fuel stored in Norway."
+     },
+     {
+      "value": "postpone",
+      "label": "Postpone it",
+      "detail": "As Göring decided on 13 and 16 February: the fuel goes to Eisenhammer."
+     }
+    ],
+    "fileNote": "The war diary: postponed on 13 February, not to be carried out on 16 February 1945."
+   },
+   "sources": [
+    "t321ktb",
+    "csdic",
+    "ironhammer",
+    "forsyth"
+   ]
+  },
+  {
+   "id": "fleet",
+   "n": 7,
+   "date": "1939 – May 1945",
+   "part": "The other side",
+   "title": "What lay at anchor",
+   "lede": "The Home Fleet kept a diary of where every ship was on every day. It answers the question the file could only estimate.",
+   "body": [
+    "Scapa Flow, a natural harbour enclosed by the Orkney islands, was the main base of the British Home Fleet in both world wars. In April 1944 it was full: on the day the study was signed, the battleships Duke of York, Rodney and Ramillies lay there; Anson, the carriers Furious and Victorious and others came and went between operations off Norway, refits in Rosyth, Liverpool and Plymouth, and exercises in the Clyde.",
+    "The fleet was about to shrink. Roskill's official history records that the fleet carriers Victorious and Indomitable sailed for the Far East on 12 June 1944 and the battleship Howe on 1 July; from July the Duke of York was the only modern battleship left to the Commander-in-Chief. By early 1945, Roskill writes, \"he had no more than one battleship\". In the war diary that ship is the Rodney, the fleet's flagship at Scapa for most of the time from October 1944 until she left on 22 May 1945. In February 1945, when Göring decided on Dragon's Lair, she was the only battleship in the Flow.",
+    "The defences had grown since 1939, when, by Roskill's account, there were \"still only eight heavy A.A. guns at Scapa\", placed to defend the oil tanks, with one squadron of naval fighters and a single line of nets across the main entrances. A balloon barrage was formed in February 1940, and fighters were based on the islands. How strong the anti-aircraft defence still was in 1944–45 has not been found in a public-domain source; the study's model assumes, and says so.",
+    "Whether British intelligence knew of Dragon's Lair is not settled by any source read here: an Air Ministry file titled \"Mistel: German intentions\" (February–March 1945) has not been seen. The fleet knew of the U-boats: in December 1944 several lay off the Orkneys to catch the carriers, and one, U-312, damaged herself trying to enter the Flow through Hoxa Sound. \"None of the U-boats … ever sighted any of the aircraft carriers they had been sent to catch.\""
+   ],
+   "quotes": [
+    {
+     "de": "The strength generally available to Admiral Moore was, by earlier standards, small; for he had no more than one battleship, seven cruisers or anti-aircraft cruisers and four flotillas of destroyers",
+     "en": "",
+     "cite": {
+      "href": "#/sources",
+      "label": "Roskill, The War at Sea, vol. III part 2 (1961), on early 1945"
+     }
+    }
+   ],
+   "plates": [
+    "chart35",
+    "wasp",
+    "boom"
+   ],
+   "data": [
+    "fleet"
+   ],
+   "sources": [
+    "nhn",
+    "roskill1",
+    "roskill3",
+    "roof"
+   ]
+  },
+  {
+   "id": "barriers",
+   "n": 8,
+   "date": "October 1939 – May 1945",
+   "part": "What the file does not count",
+   "title": "The barriers",
+   "lede": "The eastern entrances to the Flow were closed with stone and concrete after a U-boat had come through them and sunk a battleship.",
+   "body": [
+    "In the night of 13–14 October 1939 the German submarine U-47 slipped into Scapa Flow through Kirk Sound, one of the shallow eastern channels between the islands, past the old blockships sunk there to close it, and torpedoed the battleship Royal Oak. \"Twenty-four officers and 809 men of her complement perished\", Roskill writes: 833 men. Churchill told the House of Commons that \"the last blockship required reached Scapa Flow only on the day after the disaster had occurred\".",
+    "The Admiralty decided to close the eastern entrances for good with causeways of rock and concrete blocks, linking the islands from Mainland by Lamb Holm and Burray to South Ronaldsay. They are known as the Churchill Barriers. Preparatory work began in 1940 (accounts differ on when the main building started); by the end of 1942 the barriers were proof against submarines; the first was complete in August 1943, all four by September 1944. They were opened as roads on 12 May 1945.",
+    "Among the workers were about 520 British labourers and, from January 1942, Italian prisoners of war. Ten men died in accidents on the works, seven of them drowned. Chapter 9 follows the prisoners.",
+    "In the Luftwaffe's target dossiers Lamb Holm appears in January 1941 as \"fortifications\": coastal batteries guarding Holm Sound. The planners of 1944 needed photographs of the anchorage, not of the barriers. But a heavy ship hit in the Flow, by the measure of the Royal Oak, meant hundreds of men."
+   ],
+   "quotes": [
+    {
+     "de": "Twenty-four officers and 809 men of her complement perished.",
+     "en": "",
+     "cite": {
+      "href": "#/sources",
+      "label": "Roskill, The War at Sea, vol. I (1954), p. 74"
+     }
+    }
+   ],
+   "plates": [
+    "royaloak",
+    "lambholm-map",
+    "blockship",
+    "barrier"
+   ],
+   "sources": [
+    "roskill1",
+    "hansard",
+    "custodis",
+    "dossiers"
+   ]
+  },
+  {
+   "id": "prisoners",
+   "n": 9,
+   "date": "January 1942 – December 1945",
+   "part": "What the file does not count",
+   "title": "The prisoners of Lamb Holm and Burray",
+   "lede": "About twelve hundred Italian prisoners of war built the barriers. They argued that they should not have had to.",
+   "body": [
+    "The first Italian prisoners reached Orkney in January 1942 and were put into two camps on the islands they were to join: Camp 34 on Burray and Camp 60 on Lamb Holm. A Red Cross inspection in August 1942 counted 1,170 men, 267 of them in tents; the camps were a third over capacity. At the peak, in 1943, about 1,200 Italians worked on the barriers beside some 520 British workmen.",
+    "In March 1942 both camps stopped work. The Geneva Convention of 1929 forbade using prisoners of war on work connected with the operations of the war, and on dangerous work; the prisoners said that closing the eastern entrances of a fleet base was both. The Swiss protecting power and the International Committee of the Red Cross accepted the British view that the work was allowed, and the camp leaders were removed. From then on the official papers called the barriers \"causeways\": roads between the islands. The historian Johann Custodis, who has studied the files, concludes that the British broke the Convention, and that housing prisoners next to a likely bombing target did so too.",
+    "Of the ten men killed on the works, two were Italians, according to an Orkney history cited by Custodis. Most of the prisoners left for a camp at Skipton in September 1944; 420 were still on Burray in November 1945; the last had gone by mid-December 1945. On Lamb Holm a few of them stayed into 1945 to finish converting a Nissen hut into a chapel, painted inside by Domenico Chiocchetti. It is the only building of Camp 60 still standing.",
+    "In June 1944, when the file's fifteen Mistel were due, the camps were still occupied."
+   ],
+   "plates": [
+    "chapel"
+   ],
+   "sources": [
+    "custodis",
+    "hes"
+   ]
+  },
+  {
+   "id": "end",
+   "n": 10,
+   "date": "June 1944 – May 1945",
+   "part": "The end",
+   "title": "The end of the plan",
+   "lede": "No Mistel ever attacked Scapa Flow. The file survived the war; the reasons for its failure have to be pieced together.",
+   "body": [
+    "Whether anyone decided on the study of April 1944 is not in the file. The later literature, not confirmed here from documents, says the Mistel unit was sent to France after the landing. The war diary of February 1945 shows Dragon's Lair once more, in three entries, between a fuel crisis and the higher priority of Eisenhammer; Beeger remembered the weather. Each source gives a reason that suits it, and none of them gives the full one.",
+    "In May 1945 the Home Fleet dispersed. The barriers were opened as roads on 12 May 1945; the Rodney left Scapa Flow for Rosyth on 22 May. The censorship of letters from Orkney was still in force in March 1945 \"as an essential measure of operational security\"; Orkney remained a restricted area after Shetland had been released in June 1945. The Italian prisoners went home by the end of the year.",
+    "The accounting at the end of this study sets the file's arithmetic beside the war diary of the Home Fleet and runs the plan you chose. It counts ships, because that is what the file counts. The reflection says what it does not."
+   ],
+   "facsimiles": [
+    {
+     "src": "assets/file/k5-abandon.jpg",
+     "href": "#/file/k5",
+     "caption": "16 February 1945: \"Drachenhöhle\" not to be carried out \"for the time being\"; the fuel in Norway stays blocked."
+    }
+   ],
+   "sources": [
+    "t321file",
+    "t321ktb",
+    "csdic",
+    "nhn",
+    "hansard",
+    "custodis"
+   ]
+  }
+ ]
+}

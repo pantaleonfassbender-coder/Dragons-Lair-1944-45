@@ -1,0 +1,71 @@
+{
+ "credit": "Plates: a map from the file (NARA), German target dossiers captured by the Allies (NARA, public domain), a British Admiralty chart and photographs of the Royal Navy and the US Navy whose copyright has expired, and three recent photographs under Creative Commons licences; each is named with its original. Resized.",
+ "plates": [
+  {
+   "id": "rangemap",
+   "titel": "Range of the Mistel, April 1944",
+   "caption": "Annex 3 to the study: \"Tactical penetration depth for Beethoven 'Mistel'\", with arcs of 400 km (without tank) and 750 km (with the 300-litre tank) round the jump-off airfields from Banak in the far north to Rennes, among them Sola (3) and Grove (4). On the film the black and red arcs cannot be told apart.",
+   "source": "NARA, RG 242, T-321, roll 10, image 298 (https://catalog.archives.gov/id/315968627)"
+  },
+  {
+   "id": "lambholm-photo",
+   "titel": "Lamb Holm as a German target, 1941",
+   "caption": "Luftwaffe target dossier \"Lamb-Holm (Scapa Flow), Befestigungsanlagen\", GB 16 800 bc, January 1941, from an aerial photograph of 8 October 1940: two coastal batteries and huts at the entrance of Holm Sound. A year later Camp 60 for Italian prisoners was built on the island.",
+   "source": "NARA via Wikimedia Commons, File:Target Dossier for Lamb-Holm, Orkney, Scotland - DPLA - 38b945587612b0a58b8761354d0c156c (page 2).jpg (public domain)"
+  },
+  {
+   "id": "lambholm-map",
+   "titel": "Holm Sound on a German target map, 1941",
+   "caption": "The map sheet of the same dossier (GB 16 800 a, 1:100,000): the eastern entrances of Scapa Flow between Mainland, Lamb Holm, Burray and South Ronaldsay, which the Churchill Barriers were to close.",
+   "source": "NARA via Wikimedia Commons, File:Target Dossier for Lamb-Holm, Orkney, Scotland - DPLA - 38b945587612b0a58b8761354d0c156c (page 1).jpg (public domain)"
+  },
+  {
+   "id": "lyness",
+   "titel": "Lyness, a German target, 1939",
+   "caption": "Luftwaffe target dossier \"Lyness (Scapa Flow)\", GB 111 bc: aerial photograph of the naval base and oil tanks on Hoy with an anti-aircraft battery, the kind of photograph the crews of 1944 were to fly with if no new reconnaissance came back.",
+   "source": "NARA via Wikimedia Commons, File:Target Dossier for Scapa Flow SW, Orkney, Scotland - DPLA - b8d8aa3675753153e8eed763560d7794 (page 2).jpg (public domain)"
+  },
+  {
+   "id": "chart35",
+   "titel": "Admiralty chart of Scapa Flow, 1944",
+   "caption": "Admiralty chart no. 35, Scapa Flow, northern part, published 1944 (surveys of 1906–09 with later corrections).",
+   "source": "United Kingdom Hydrographic Office; National Library of Scotland, via Wikimedia Commons, File:Admiralty Chart No 35 Scapa Flow Northern Part, Published 1944.jpg (public domain)"
+  },
+  {
+   "id": "wasp",
+   "titel": "Scapa Flow, April 1942",
+   "caption": "The US heavy cruiser Wichita at anchor in Scapa Flow, with the carrier Wasp behind her, in April 1942, when American ships reinforced the Home Fleet.",
+   "source": "US Navy photograph NH 97884, Naval History and Heritage Command, via Wikimedia Commons (public domain)"
+  },
+  {
+   "id": "boom",
+   "titel": "The boom, May 1943",
+   "caption": "Boom defence vessels towing an anti-submarine net into position at Scapa Flow, May 1943. Photograph by J. A. Hampton, Royal Navy, IWM A 16572.",
+   "source": "Imperial War Museums, via Wikimedia Commons, File:Royal Navy Vessels Maintain the Boom Defence at Scapa Flow, Scotland, May 1943 A16572.jpg (Crown copyright expired)"
+  },
+  {
+   "id": "royaloak",
+   "titel": "HMS Royal Oak, 1937",
+   "caption": "The battleship Royal Oak, sunk inside Scapa Flow by U-47 on 14 October 1939 with the loss of 833 men.",
+   "source": "Royal Navy photograph, via Wikimedia Commons, File:HMS Royal Oak (08).jpg (Crown copyright expired)"
+  },
+  {
+   "id": "blockship",
+   "titel": "A blockship at Barrier No. 4",
+   "caption": "The hull of one of the old ships sunk to close the eastern channels, beside Churchill Barrier No. 4 between Burray and South Ronaldsay, photographed in 1988.",
+   "source": "Harald Kucharek, geograph.org.uk, via Wikimedia Commons, File:Blockship at Churchill Barrier No 4 - geograph.org.uk - 1331240.jpg (CC BY-SA 2.0)"
+  },
+  {
+   "id": "barrier",
+   "titel": "Churchill Barrier No. 4",
+   "caption": "The fourth barrier, from Burray towards South Ronaldsay, in 2006: now a road.",
+   "source": "Lis Burke, geograph.org.uk, via Wikimedia Commons, File:Churchill Barrier 4 South Ronaldsay.jpg (CC BY-SA 2.0)"
+  },
+  {
+   "id": "chapel",
+   "titel": "The Italian Chapel, Lamb Holm",
+   "caption": "The chapel of the Italian prisoners of Camp 60, converted from a Nissen hut, in 2008. Its painted interior, by Domenico Chiocchetti, is not shown here: the paintings are still in copyright.",
+   "source": "John Haslam, via Wikimedia Commons, File:The Italian Chapel, Orkney (Exterior) (2926632589).jpg (CC BY 2.0)"
+  }
+ ]
+}

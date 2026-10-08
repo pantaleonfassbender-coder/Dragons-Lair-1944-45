@@ -1,0 +1,93 @@
+{
+ "t321file": {
+  "short": "The Mistel study, 16 April 1944 (NARA T-321, roll 10)",
+  "cite": "National Archives and Records Administration (NARA), Record Group 242, microfilm T-321 (Records of Headquarters, German Air Force High Command), roll 10, item OKL 2382: war diary of the Luftwaffe Operations Staff, annex volume C (Chefsachen), no. 89: covering memo Ia no. 9532/44, study, technical annex, naval note and maps, 16 April 1944, images 282–298. Transcribed and translated here in full.",
+  "url": "https://catalog.archives.gov/id/315968627",
+  "status": "Captured German official records; NARA: unrestricted. Read at the page images.",
+  "read": "checked"
+ },
+ "t321ktb": {
+  "short": "War diary of the operations staff, February 1945 (NARA T-321, roll 10)",
+  "cite": "NARA, RG 242, T-321, roll 10, item OKL 2593: war diary of the Luftwaffe Operations Staff Ia, text volume, February 1945, entries of 2, 12, 13 and 16 February (images 368, 418–419, 425, 441).",
+  "url": "https://catalog.archives.gov/id/315968627",
+  "status": "Captured German official records; NARA: unrestricted. Read at the page images; dates assigned by the sequence of day headings.",
+  "read": "checked"
+ },
+ "csdic": {
+  "short": "Interrogation of Maj. Horst Hans Beeger (CSDIC, 1945–46)",
+  "cite": "CSDIC (WEA) BAOR, Final Report FR 30, \"Maj Horst Hans Beeger\", 21 January 1946, and Preliminary Interrogation Report 71, 13 December 1945; NARA, Record Group 498, HQ ETOUSA, MIS Prisoner of War Interrogation Section.",
+  "url": "https://catalog.archives.gov/id/295816244",
+  "status": "Reports of the British and US armies; declassified 1979. The final report read at the page images; the preliminary report only through the catalogue's text recognition.",
+  "read": "checked"
+ },
+ "nhn": {
+  "short": "War diary of the Commander-in-Chief, Home Fleet, 1944–45",
+  "cite": "Admiralty war diaries (The National Archives, Kew, ADM 199), war diary of the Commander-in-Chief, Home Fleet, April 1944 – May 1945, as transcribed by Don Kindell for naval-history.net (Home Fleet pages 1944–45).",
+  "url": "https://www.naval-history.net/xDKWD-HF1944b.htm",
+  "status": "The original is an unpublished Crown record; the transcription is modern. Used here as data on ship movements, not quoted; to be checked against the original before any print use.",
+  "read": "research"
+ },
+ "roskill1": {
+  "short": "Roskill, The War at Sea, vol. I (1954)",
+  "cite": "S. W. Roskill, The War at Sea 1939–1945, vol. I: The Defensive (London: HMSO, 1954), pp. 74, 79–81.",
+  "url": "https://archive.org/details/worldat-sea-1939-1945-vol-1",
+  "status": "Published Crown copyright, expired; public domain. Quotations checked in the text.",
+  "read": "checked"
+ },
+ "roskill3": {
+  "short": "Roskill, The War at Sea, vol. III part 2 (1961)",
+  "cite": "S. W. Roskill, The War at Sea 1939–1945, vol. III: The Offensive, part 2 (London: HMSO, 1961), pp. 156, 164, 251, 260.",
+  "url": "https://archive.org/details/war-at-sea-1939-1945-vol-3-part-2",
+  "status": "Published Crown copyright, expired; public domain. Quotations checked in the text.",
+  "read": "checked"
+ },
+ "roof": {
+  "short": "Roof over Britain (HMSO, 1943)",
+  "cite": "Ministry of Information, Roof over Britain: the official story of the A.A. defences, 1939–1942 (London: HMSO, 1943), p. 77.",
+  "url": "https://archive.org/details/roofoverbritain",
+  "status": "Published Crown copyright, expired; public domain.",
+  "read": "checked"
+ },
+ "hansard": {
+  "short": "Hansard, House of Commons, 1939–1945",
+  "cite": "House of Commons debates, 17 October 1939 (vol. 352, cc. 686–690) and 8 November 1939 (vol. 353, c. 253); written answers 7 March 1945 (vol. 408, c. 2029W) and 6 June 1945 (vol. 411, c. 901W).",
+  "url": "https://api.parliament.uk/historic-hansard/",
+  "status": "Parliamentary copyright, Open Parliament Licence. Quotations checked in the text.",
+  "read": "checked"
+ },
+ "custodis": {
+  "short": "Custodis, \"Exploiting the Enemy in the Orkneys\" (2011)",
+  "cite": "Johann Custodis, \"Exploiting the Enemy in the Orkneys: Italian Prisoners of War and the Churchill Barriers, 1942–1945\", Journal of Scottish Historical Studies 31.1 (2011), pp. 72–98, doi:10.3366/jshs.2011.0007; based on The National Archives ADM 116/5790, ADM 116/4111, WO 32/10740, FO 916/308 and ICRC camp reports.",
+  "url": "https://doi.org/10.3366/jshs.2011.0007",
+  "status": "Modern scholarship in copyright: summarised and cited, not reproduced.",
+  "read": "research"
+ },
+ "hes": {
+  "short": "Historic Environment Scotland, Italian Chapel (listing LB12728)",
+  "cite": "Historic Environment Scotland, listed building record LB12728: Lamb Holm, Italian Chapel, category A.",
+  "url": "https://portal.historicenvironment.scot/designation/LB12728",
+  "status": "Modern record in copyright: summarised.",
+  "read": "research"
+ },
+ "dossiers": {
+  "short": "German target dossiers, Orkney, 1939–41 (NARA)",
+  "cite": "Luftwaffe target dossiers \"Lamb-Holm (Scapa Flow), Befestigungsanlagen\", GB 16 800, January 1941, and \"Scapa Flow SW\", GB 111, 1939; NARA, Target Dossiers Pertaining to the British Isles, 1938–1945 (NAIDs 259486587, 259486853), via Wikimedia Commons.",
+  "url": "https://catalog.archives.gov/id/259486587",
+  "status": "Captured German records; public domain in the US.",
+  "read": "checked"
+ },
+ "ironhammer": {
+  "short": "The Eisenhammer file, 7 February 1945 (NARA T-971)",
+  "cite": "NARA, RG 242, T-971, roll 22, item 4406/72, memo of the Chief of the Luftwaffe Operations Staff, 7 February 1945: Mistel with a penetration depth of 1,500 km in construction. See the study Iron Hammer, 1945.",
+  "url": "https://iron-hammer-1945.netlify.app/",
+  "status": "Captured German official records; read at the page images for Iron Hammer, 1945.",
+  "read": "checked"
+ },
+ "forsyth": {
+  "short": "Forsyth and later accounts (modern)",
+  "cite": "Robert Forsyth, Mistel (2001) and Luftwaffe Mistel Composite Bomber Units (2015), as reported in the press; a Danish local history of Tirstrup and Taars, February 1945 (Kystmuseet). Not seen in full.",
+  "url": "",
+  "status": "Modern literature in copyright: referred to only, and marked as such where used.",
+  "read": "referred"
+ }
+}

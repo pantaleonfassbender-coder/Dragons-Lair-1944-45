@@ -1,0 +1,194 @@
+{
+ "target": {
+  "name": "Scapa Flow (main anchorage)",
+  "lat": 58.88,
+  "lon": -3.1
+ },
+ "bases": [
+  {
+   "id": "grove",
+   "name": "Grove (Jutland)",
+   "lat": 56.3,
+   "lon": 9.12,
+   "file": 775,
+   "note": "The file's jump-off airfield: 775 km to Scapa Flow with the 300-litre tank on the Bf 109 (great circle about 780 km)."
+  },
+  {
+   "id": "sola",
+   "name": "Stavanger-Sola (Norway)",
+   "lat": 58.88,
+   "lon": 5.64,
+   "file": 510,
+   "note": "The file names Stavanger-Scapa Flow as 510 km, too far for fighter escort; its map shows Sola among the jump-off airfields (great circle about 500 km)."
+  },
+  {
+   "id": "tirstrup",
+   "name": "Tirstrup (Jutland)",
+   "lat": 56.3,
+   "lon": 10.62,
+   "file": null,
+   "note": "Where Beeger was to direct the operation in February 1945 (CSDIC report). About 865 km to Scapa Flow: beyond the 750–800 km of the Mistel of 1944, within the 1,500 km of the Mistel of 1945."
+  }
+ ],
+ "windows": [
+  {
+   "id": "may",
+   "label": "Late May 1944, with what is ready",
+   "date": "20 May 1944",
+   "year": 1944,
+   "available": 9,
+   "availableNote": "Assumption: of the 15 combinations, the 2 prototypes plus the 13 due by 15 June completed at an even rate from 18 April.",
+   "weather": 0.75,
+   "ships": [
+    {
+     "name": "Duke of York",
+     "type": "BB",
+     "p": 1.0
+    },
+    {
+     "name": "Anson",
+     "type": "BB",
+     "p": 1.0
+    },
+    {
+     "name": "Howe",
+     "type": "BB",
+     "p": 1.0
+    },
+    {
+     "name": "Rodney",
+     "type": "BB",
+     "p": 0.97
+    },
+    {
+     "name": "Ramillies",
+     "type": "BB",
+     "p": 0.67
+    },
+    {
+     "name": "Nelson",
+     "type": "BB",
+     "p": 0.47
+    },
+    {
+     "name": "Warspite",
+     "type": "BB",
+     "p": 0.4
+    },
+    {
+     "name": "Furious",
+     "type": "CV",
+     "p": 0.67
+    },
+    {
+     "name": "Indomitable",
+     "type": "CV",
+     "p": 0.6
+    },
+    {
+     "name": "Indefatigable",
+     "type": "CV",
+     "p": 0.33
+    },
+    {
+     "name": "Victorious",
+     "type": "CV",
+     "p": 0.2
+    }
+   ]
+  },
+  {
+   "id": "june",
+   "label": "After 15 June 1944, on the file's schedule",
+   "date": "20 June 1944",
+   "year": 1944,
+   "available": 15,
+   "availableNote": "The file: 15 Mistel in all, the remaining 13 complete about 15 June.",
+   "weather": 0.75,
+   "ships": [
+    {
+     "name": "Duke of York",
+     "type": "BB",
+     "p": 0.73
+    },
+    {
+     "name": "Howe",
+     "type": "BB",
+     "p": 0.93
+    },
+    {
+     "name": "Anson",
+     "type": "BB",
+     "p": 0.07
+    },
+    {
+     "name": "Furious",
+     "type": "CV",
+     "p": 0.73
+    }
+   ]
+  },
+  {
+   "id": "feb45",
+   "label": "February 1945: Dragon's Lair",
+   "date": "15 February 1945",
+   "year": 1945,
+   "available": 15,
+   "availableNote": "Assumption: the number set aside for Dragon's Lair is not in any document found; the study lets it equal the file of 1944. The war diary counts 130 Mistel built or under construction on 2 February 1945, most of them meant for Eisenhammer.",
+   "weather": 0.45,
+   "ships": [
+    {
+     "name": "Rodney",
+     "type": "BB",
+     "p": 1.0
+    }
+   ]
+  }
+ ],
+ "shipsNote": "Presence: the share of days each heavy ship spent at Scapa in the fifteen days round the date (13–27 May, 13–27 June 1944; all of February 1945), from the war diary of the Commander-in-Chief, Home Fleet (Admiralty war diaries, ADM 199, as transcribed by Don Kindell on naval-history.net). Battleships and fleet carriers only; escort carriers, cruisers and destroyers are not counted, as the file did not count them.",
+ "assumptions": {
+  "serviceable": 0.85,
+  "reconSuccess": 0.6,
+  "interceptDay": 0.2,
+  "interceptDawn": 0.12,
+  "interceptFeb": 0.15,
+  "findSchwan": 0.85,
+  "findDawn": 0.75,
+  "findWinter": 0.7,
+  "identifyFresh": 0.8,
+  "identifyOld": 0.4,
+  "flakLoss": 0.15,
+  "hit": 0.5,
+  "sinkBB": 0.4,
+  "sinkCV": 0.5,
+  "returnGrove": 0.7,
+  "returnSola": 0.8,
+  "returnTirstrup": 0.65,
+  "solaAlert": 0.1
+ },
+ "assumptionNotes": {
+  "serviceable": "Share of combinations that take off. Assumption.",
+  "reconSuccess": "Chance that the reconnaissance flight the file demands brings back usable photographs of the anchorage. Assumption; the file only says reconnaissance must come first.",
+  "interceptDay": "Share of combinations lost to fighters on the way in, in daylight at very low level (the study's method). Assumption; the file expects 160–200 fighters and a radar belt 'without gaps'.",
+  "interceptDawn": "The same for the night flight arriving at dawn (the covering memo's method). Assumption.",
+  "interceptFeb": "The same in February 1945, whatever the method. Assumption.",
+  "findSchwan": "Chance of reaching the anchorage with the 'Schwan' buoy and the 'Sonne' beacon, as the file proposes. Assumption.",
+  "findDawn": "The same at night and dawn. Assumption.",
+  "findWinter": "The same in February 1945, with winter winds. Assumption.",
+  "identifyFresh": "Chance of steering straight for a ship with fresh photographs, as the file demands. Assumption.",
+  "identifyOld": "The same with the old target dossiers of 1939–41 only. Assumption; the file says crews cannot pick out targets on arrival.",
+  "flakLoss": "Share lost to the anchorage's anti-aircraft fire in the pull-up and glide (release at 700 m, 2 km from the target, after the file). Assumption.",
+  "hit": "Chance that a released Ju 88 strikes the ship it is aimed at. Assumption; the file gives only the scatter (18 × 18 m) and reckons that one hit destroys a battleship.",
+  "sinkBB": "Chance that a hit sinks a battleship rather than damaging it. Assumption; the file expects destruction by one hit.",
+  "sinkCV": "The same for a fleet carrier. Assumption.",
+  "returnGrove": "Chance that a fighter pilot gets back to Jutland after 775 km out and the attack. Assumption.",
+  "returnSola": "The same from Stavanger, 510 km. Assumption.",
+  "returnTirstrup": "The same in February 1945 (later accounts say the pilots were to land in Norway). Assumption.",
+  "solaAlert": "Added interception if the combinations are first moved to Norway, where British reconnaissance and the code-breakers could see them. Assumption."
+ },
+ "weatherNote": "Chance that the weather on the planned days allows the low flight and the attack. Assumptions: 75 % for May–June, 45 % for February. Beeger said bad weather made them abandon the operation in February 1945.",
+ "royalOak": {
+  "dead": 833,
+  "cite": "Roskill, The War at Sea, vol. I (1954), p. 74: 'Twenty-four officers and 809 men of her complement perished.'"
+ }
+}
